@@ -1,0 +1,2 @@
+created to create merge conflict
+this is the file0.txt created originally on master branch in new repo2
